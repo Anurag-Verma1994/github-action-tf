@@ -1,0 +1,5 @@
+environment = "dev"
+project     = "cbcd"
+region      = "us-west1"
+user        = "ssh-user"
+email       = "cbcd-compute@developer.gserviceaccount.com"
