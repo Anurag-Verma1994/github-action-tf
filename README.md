@@ -1,5 +1,5 @@
 ## Terraform Deployment Using Github Actions
-This document will provide you all the details how to configure the github actions to trigger the terraform deployment.
+This document will describe you how to deploy the GCP resources with terraform through the github actions.
 
 ## Basics of Github actions in the workflow
 1. Use a build matrix if you want your workflow to run tests across multiple combinations of operating systems, platforms, and languages.
